@@ -38,11 +38,12 @@ var result = y.concat(z);
 console.log(result);
 
 
- // var prg = "Pellentesque habitant morbi tristique senectus et netus et malesuada
+// var prg = "Pellentesque habitant morbi tristique senectus et netus et malesuada
 // fames ac turpis egestas.\n Vestibulum tortor quam, feugiat vitae, ultricies eget,
 // tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.\n"
 //
 // console.log(prg);
+
 // typeof a will return string
 var a = "Nabila";
 console.log(a);
